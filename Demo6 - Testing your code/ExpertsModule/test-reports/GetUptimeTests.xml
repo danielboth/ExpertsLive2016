@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-results xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="nunit_schema_2.5.xsd" name="Pester" total="5" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-11-21" time="21:35:24">
+  <environment user="Expert" machine-name="DC1" cwd="C:\expertslive\Demo6 - Testing your code\ExpertsModule" user-domain="EXPERTSLIVE" platform="Microsoft Windows Server 2012 R2 Datacenter|C:\Windows|\Device\Harddisk0\Partition1" nunit-version="2.5.8.0" os-version="6.3.9600" clr-version="4.0.30319.42000" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Powershell" name="Pester" executed="True" result="Success" success="True" time="0.7109" asserts="0">
+    <results>
+      <test-suite type="TestFixture" name="Get-Uptime" executed="True" result="Success" success="True" time="0.7109" asserts="0" description="Get-Uptime">
+        <results>
+          <test-case description="Should not throw and call Get-CimInstance exactly one time when Get-Uptime is executed" name="Get-Uptime.Should not throw and call Get-CimInstance exactly one time when Get-Uptime is executed" time="0.2084" asserts="0" success="True" result="Success" executed="True" />
+          <test-case description="Should not throw and call Get-CimInstance exactly one time when Get-Uptime is executed with Credentials" name="Get-Uptime.Should not throw and call Get-CimInstance exactly one time when Get-Uptime is executed with Credentials" time="0.1653" asserts="0" success="True" result="Success" executed="True" />
+          <test-case description="Property LastBootUpTime should return a datetime object" name="Get-Uptime.Property LastBootUpTime should return a datetime object" time="0.1908" asserts="0" success="True" result="Success" executed="True" />
+          <test-case description="Property Uptime should return a timespan object" name="Get-Uptime.Property Uptime should return a timespan object" time="0.0682" asserts="0" success="True" result="Success" executed="True" />
+          <test-case description="Uptime should be 10 days" name="Get-Uptime.Uptime should be 10 days" time="0.0781" asserts="0" success="True" result="Success" executed="True" />
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

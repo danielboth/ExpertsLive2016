@@ -1,0 +1,1 @@
+## Repository with multiple bamboo branches
