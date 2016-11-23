@@ -5,6 +5,7 @@ Welcome to ExpertsLive! demo project for PowerShell pipeline... :)
 # Planned folder structure
 
 Each folder is linked to a demo:
+
 1. UNC Path Hell - Daniel
 2. Just do GIT! - Daniel
 3. I request, you pull... - Bartek
