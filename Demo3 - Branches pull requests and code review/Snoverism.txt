@@ -1,3 +1,8 @@
 How do GPO and DSC get along? They’ll fight like two raccoons in a bag.
 SSH is like a San Francisco bathhouse. There’s way too much anonymous sharing.
 (...) hacking code (...) is a lot like peeing your pants: at first, it’s nice. Warm, and moist. But then you have to live with the consequences.
+Running a GUI on a server is like heroin. At first click, it’s great, but before you know it you’re full of viruses and dying in an alley.
+Not upgrading from [an old version of Windows] is like the guy who jumps off a building and, on the way down, says, “so far, so good.”
+If you didn’t want to learn new things, you should get into lumber. There has not been a new tree in quite a long time.
+When in trouble, fear, or doubt, run in circles, scream and shout.
+PowerShell: Like programming with hand grenades.
